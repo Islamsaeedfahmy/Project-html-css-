@@ -1,0 +1,31 @@
+body {
+    background-color: #181823;
+}
+a {
+    color: white;
+}
+
+h2 {
+    color: white;
+}
+
+h3 {
+    color: white;
+}
+
+h4 {
+    color: white;
+}
+p {
+    color: white;
+}
+.wrapper {
+    padding-right: 20px;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-rows: 100px 100px;
+    gap: 20px;
+}
+nav{
+    position: relative;
+}
